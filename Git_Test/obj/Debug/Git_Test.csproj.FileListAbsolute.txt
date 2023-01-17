@@ -1,0 +1,8 @@
+D:\Программирование\c#\Git_Test\Git_Test\bin\Debug\Git_Test.exe.config
+D:\Программирование\c#\Git_Test\Git_Test\bin\Debug\Git_Test.exe
+D:\Программирование\c#\Git_Test\Git_Test\bin\Debug\Git_Test.pdb
+D:\Программирование\c#\Git_Test\Git_Test\obj\Debug\Git_Test.csproj.AssemblyReference.cache
+D:\Программирование\c#\Git_Test\Git_Test\obj\Debug\Git_Test.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\c#\Git_Test\Git_Test\obj\Debug\Git_Test.csproj.CoreCompileInputs.cache
+D:\Программирование\c#\Git_Test\Git_Test\obj\Debug\Git_Test.exe
+D:\Программирование\c#\Git_Test\Git_Test\obj\Debug\Git_Test.pdb
