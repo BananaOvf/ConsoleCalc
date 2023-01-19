@@ -12,7 +12,7 @@ namespace Git_Test
         {
             int a = 2, b = 3;
 
-            Console.WriteLine($"{a} + {b} = {a+b}");
+            Console.WriteLine($"{a} - {b} = {a-b}");
         }
     }
 }
