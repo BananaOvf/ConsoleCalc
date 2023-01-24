@@ -16,6 +16,7 @@ namespace Git_Test
             Console.WriteLine($"Addition: {a} + {b} = {a+b}");
             Console.WriteLine($"Multiplication: {a} * {b} = {a*b}");
             Console.WriteLine($"Division: {a} / {b} = {a/b}");
+            Console.WriteLine($"Mode: {a} % {b} = {a%b}");
         }
     }
 }
