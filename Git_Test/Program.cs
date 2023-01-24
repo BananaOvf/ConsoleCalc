@@ -12,10 +12,10 @@ namespace Git_Test
         {
             int a = 2, b = 3;
 
-            Console.WriteLine($"{a} - {b} = {a-b}");
-            Console.WriteLine($"{a} + {b} = {a+b}");
-            Console.WriteLine($"{a} * {b} = {a*b}");
-            Console.WriteLine($"{a} / {b} = {a/b}");
+            Console.WriteLine($"Subtraction: {a} - {b} = {a-b}");
+            Console.WriteLine($"Addition: {a} + {b} = {a+b}");
+            Console.WriteLine($"Multiplication: {a} * {b} = {a*b}");
+            Console.WriteLine($"Division: {a} / {b} = {a/b}");
         }
     }
 }
