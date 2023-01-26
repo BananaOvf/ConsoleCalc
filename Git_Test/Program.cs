@@ -18,6 +18,7 @@ namespace Git_Test
             Console.WriteLine($"Division: {a} / {b} = {a/b}");
             Console.WriteLine($"Mode: {a} % {b} = {a%b}");
             Console.WriteLine($"Increment: ++{a} = {++a}");
+            Console.WriteLine($"Sin: Sin({a}) = {Math.Sin(a)}");
         }
     }
 }
